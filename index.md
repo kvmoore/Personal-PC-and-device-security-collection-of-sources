@@ -1,4 +1,4 @@
-# Personal PC and Devices Security Resource Collection
+
 
 This collection focuses on practical cybersecurity guidance for personal computers and personal devices such as laptops, smartphones, and tablets.
 
