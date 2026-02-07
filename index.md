@@ -6,16 +6,16 @@ It is designed for everyday users who want to better protect their accounts, dev
 
 ## Browse by 
 
-##Category
-- [Personal Identity & Account Security](categories/personal_identity_and_account_security.md)
-#Tag
+## Category
+- [Personal Identity & Account Security](categories/personal_identity_and_account_security.md)  
+# Tag
 - [Passwords](tags/passwords.md)
 - [Password Managers](tags/password_managers.md)
 - [Multi-Factor Authentication](tags/multi_factor_authentication.md)
 - [Account Recovery](tags/account_recovery.md)
 - [Identity Theft](tags/identity_theft.md)
 
-##Category
+## Category
 - [Personal Device Software Integrity](categories/personal_device_software_integrity.md)
 - [Personal Network Security](categories/personal_network_security.md)
 - [Online Behaviour & Modern Threats](categories/online_behaviour_and_modern_threats.md)
