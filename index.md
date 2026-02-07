@@ -8,7 +8,7 @@ It is designed for everyday users who want to better protect their accounts, dev
 - [Personal Identity & Account Security](categories/personal_identity_and_account_security.md)
 - [Personal Device Software Integrity](categories/personal_device_software_integrity.md)
 - [Personal Network Security](categories/personal_network_security.md)
-- [Online Behaviour Modern Threats](categories/online_behaviour_modern_threats.md)
+- [Online Behaviour & Modern Threats](categories/online_behaviour_and_modern_threats.md)
 - [Privacy & Data Recovery](categories/privacy_and_data_recovery.md)
 
 
