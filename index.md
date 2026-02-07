@@ -13,6 +13,7 @@ It is designed for everyday users who want to better protect their accounts, dev
 
 
 ## Browse by Tag
+
 - [Passwords](tags/passwords.md)
 - [Password Managers](tags/password_managers.md)
 - [Multi-Factor Authentication](tags/multi_factor_authentication.md)
