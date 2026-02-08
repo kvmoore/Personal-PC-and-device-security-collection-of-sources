@@ -6,7 +6,7 @@ It is designed for everyday users who want to better protect their accounts, dev
 
 ## Browse by 
 
-**Category**
+**Category**<br> 
 - [Personal Identity & Account Security](categories/personal_identity_and_account_security.md)
 **Topics**
 - [Passwords](tags/passwords.md)
