@@ -1,7 +1,6 @@
 
-**URL:** https://www.identitytheft.gov 
+**URL:** [Identity Theft](https://www.identitytheft.gov) 
 
-## Annotation
 
 **Content:**  
 Provides step-by-step reporting and personalized recovery plans for identity theft victims.
