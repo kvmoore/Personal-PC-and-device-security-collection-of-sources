@@ -1,7 +1,7 @@
 
-**URL:** https://www.cisa.gov/secure-our-world/multi-factor-authentication  
+## Multi Factor Authentication Sources
 
-## Annotation
+**LINK:** [Multi Factor Authentication](https://www.cisa.gov/secure-our-world/multi-factor-authentication)  
 
 **Content:**  
 Explains how MFA adds additional verification beyond passwords and why it significantly reduces compromise.
@@ -14,3 +14,6 @@ Anyone with online accounts.
 
 **Limitations:**  
 High level and not platform specific.
+
+
+

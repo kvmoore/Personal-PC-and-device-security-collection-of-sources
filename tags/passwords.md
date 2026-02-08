@@ -1,7 +1,7 @@
 
-**URL:** https://www.cisa.gov/secure-our-world/choosing-and-protecting-passwords
+## Password Resources
 
-## Annotation
+**LINK:** [Choosing and Protecting Passwords](https://www.cisa.gov/secure-our-world/choosing-and-protecting-passwords)
 
 **Content:**  
 This resource explains how to create strong, unique passwords and why password reuse increases risk. It recommends passphrases and secure storage methods.
@@ -14,3 +14,8 @@ General users and beginners.
 
 **Limitations:**  
 Does not include advanced or enterprise techniques.
+
+
+
+
+
