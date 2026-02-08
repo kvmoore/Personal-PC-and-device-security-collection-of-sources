@@ -2,12 +2,10 @@
 
 
 
-## Topics Covered
+## Topics
 - phishing
 - social engineering
 - scams
 - email safety
 - browser security
 
-## Sources
-- [Protect Your Identity – Yale University](../sources/university/protect-your-identity.md)
