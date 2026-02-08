@@ -4,9 +4,9 @@ This category focuses on protecting online identities and personal accounts thro
 
 **Topics**  
 [Passwords](../tags/passwords)     
-[Password Managers](../tags/password_managers.md)    
-[Multi-Factor Authentication](../tags/multi_factor_authentication.md)    
+[Password Managers](../tags/password_managers)    
+[Multi-Factor Authentication](../tags/multi_factor_authentication)    
 [Account Recovery](../tags/account_recovery.md)    
-[Identity Theft](.../tags/identity_theft.md)   
+[Identity Theft](.../tags/identity_theft)   
 
 
