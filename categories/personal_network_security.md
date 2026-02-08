@@ -1,6 +1,6 @@
 # Personal Network Security
 
-
+This category addresses securing home and personal networks through proper router configuration, encryption protocols, and safe practices when connecting to public or private networks
 
 **Topic**  
 [WiFi Security](../tags/wifi_security.md)  
