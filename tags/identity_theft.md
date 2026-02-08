@@ -3,7 +3,7 @@
 
 
 **Content:**  
-Provides step-by-step reporting and personalized recovery plans for identity theft victims.
+Provides step-by-step  reporting and personalized recovery plans for identity theft victims.
 
 **Value:**  
 Primary U.S. government response site; extremely authoritative.
