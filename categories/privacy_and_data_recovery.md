@@ -9,5 +9,3 @@
 - cloud storage
 - data recovery 
 
-## Sources
-- [Protect Your Identity – Yale University](../sources/university/protect-your-identity.md)
