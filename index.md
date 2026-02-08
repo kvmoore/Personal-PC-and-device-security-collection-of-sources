@@ -4,16 +4,10 @@ This collection focuses on practical cybersecurity guidance for personal compute
 
 It is designed for everyday users who want to better protect their accounts, devices, networks, data, and online activity using clear, credible, and accessible resources.
 
-## Browse by 
 
-**Category**  
+## Categories 
 [Personal Identity & Account Security](categories/personal_identity_and_account_security.md)  
-**Topics**  
-[Passwords](tags/passwords.md)  
-[Password Managers](tags/password_managers.md)  
-[Multi-Factor Authentication](tags/multi_factor_authentication.md)  
-[Account Recovery](tags/account_recovery.md)  
-[Identity Theft](tags/identity_theft.md)    
+   
 
 **Category**  
 [Personal Device Software Integrity](categories/personal_device_software_integrity.md)  
