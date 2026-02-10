@@ -1,13 +1,13 @@
 
 ## Multi Factor Authentication Sources
 
-**LINK:** [Multi Factor Authentication](https://www.cisa.gov/secure-our-world/multi-factor-authentication)  
+**LINK:** [Multi Factor Authentication](https://www.onelogin.com/learn/what-is-mfa)  
 
 **Content:**  
 Explains how MFA adds additional verification beyond passwords and why it significantly reduces compromise.
 
 **Value:**  
-One of the most widely recommended security defenses.
+MFA information from a cloud-based indentity and access management provider.
 
 **Audience:**  
 Anyone with online accounts.

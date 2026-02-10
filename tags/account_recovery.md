@@ -1,16 +1,16 @@
 
 ## Account Recovery Sources
 
-**LINK:** [Account Recovery](https://www.identitytheft.gov)
+**LINK:** [Account Recovery](https://www.darktrace.com/cyber-ai-glossary/cyber-attack-recovery)
 
 **Content:**  
 Provides step-by-step  reporting and personalized recovery plans for identity theft victims.
 
 **Value:**  
-Primary U.S. government response site; extremely authoritative.
+Information on hacked account recovery from an actual AI based cyber security company
 
 **Audience:**  
 Victims and prevention learners.
 
 **Limitations:**  
-Focused more on recovery than prevention.
+Doesn't get into extreme depth.
