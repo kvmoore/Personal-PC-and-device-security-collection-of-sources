@@ -1,16 +1,20 @@
 
 ## Scam Sources
 
-**LINK:** [Scams](https://consumer.ftc.gov/articles/tech-support-scams)
+**LINK:** [Scams](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/online-and-digital-scams.html)
+
+**URL:** https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/online-and-digital-scams.html
+  
+**Source and type:** Office of the Comptroller of the Currency – Government resource  
 
 **Content:**  
-Describes common scam patterns and reporting procedures.
+The site describes common financial fraud schemes found online. Prevention advice and reporting options are provided. Examples help readers recognize suspicious activity.
 
 **Value:**  
-Consumer protection authority.
+It offers credible information from a regulatory authority. Consumers can act quickly using official guidance.
 
 **Audience:**  
-General public.
+Bank customers and the general public are primary readers. It is easy to understand.
 
 **Limitations:**  
-Focused on one scam type.
+The focus is mainly on finance-related scams. Broader cyber threats are less detailed.

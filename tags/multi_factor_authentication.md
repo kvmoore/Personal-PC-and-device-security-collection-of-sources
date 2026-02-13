@@ -1,10 +1,10 @@
 
 ## Multi Factor Authentication Sources
 
-**LINK:** [Multi Factor Authentication](https://www.onelogin.com/learn/what-is-mfa)  
+**LINK:** [What is Multi Factor Authentication](https://www.onelogin.com/learn/what-is-mfa)  
 
-**Title:** What is MFA?  
-**URL:** https://www.onelogin.com/learn/what-is-mfa  
+**URL:** https://www.onelogin.com/learn/what-is-mfa
+
 **Source and type:** OneLogin – Vendor learning guide  
 
 **Content:**  

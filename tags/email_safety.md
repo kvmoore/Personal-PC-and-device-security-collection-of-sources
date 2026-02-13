@@ -1,16 +1,20 @@
 
 ## Email Safety sources
 
-**LINK:** [Avoid Social Engineering Attacks](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
+**LINK:** [Email Safety Tips](https://www.youtube.com/watch?v=WVzXmiV2jGQ)
+
+**URL:** https://www.youtube.com/watch?v=WVzXmiV2jGQ 
+
+**Source and type:** YouTube – Video  
 
 **Content:**  
-Shows how attackers exploit trust and how to verify messages.
+The video presents practical habits for identifying and avoiding malicious emails. Visual demonstrations reinforce common warning signs. Safe response strategies are emphasized.
 
 **Value:**  
-Authoritative national guidance.
+The format supports visual learners and increases engagement. It works well in training environments.
 
 **Audience:**  
-Everyone.
+General users and beginners are ideal viewers. Groups conducting awareness sessions may also use it.
 
 **Limitations:**  
-High level.
+Depth is limited by runtime. Some viewers may prefer written documentation.

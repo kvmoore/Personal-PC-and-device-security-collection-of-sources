@@ -1,16 +1,19 @@
 
 ## Public Wifi Sources
 
-**LINK:** [Secure your data public wifi](https://ssd.eff.org/module/securing-your-data-public-wi-fi)
+**LINK:** [Secure your data public wifi](https://newresources.com/navigating-public-wifi-understanding-cybersecurity-concerns-and-best-practices/)
+
+**URL:** https://newresources.com/navigating-public-wifi-understanding-cybersecurity-concerns-and-best-practices/  
+**Source and type:** New Resources Consulting – Blog article  
 
 **Content:**  
-Explains risks like rogue hotspots and offers protective strategies.
+This post outlines risks such as eavesdropping, spoofed networks, and data interception. It recommends encryption, VPN use, and cautious browsing habits. Real-world travel scenarios are described.
 
 **Value:**  
-Respected digital privacy organization.
+It raises awareness about everyday exposure outside the home. The prevention tips are easy to apply.
 
 **Audience:**  
-Travelers and remote workers.
+Travelers, students, and remote workers are ideal readers. It is beginner friendly.
 
 **Limitations:**  
-May require extra tools.
+The content is general and not deeply technical. Readers seeking research-level detail may want more.

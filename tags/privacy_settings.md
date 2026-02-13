@@ -1,16 +1,20 @@
 
 ## Privacy Sources
 
-**LINK:** [Encryption for privacy](https://www.eff.org/issues/encryption)
+**LINK:** [Encryption for privacy](https://fpf.org/blog/7-tips-for-protecting-your-privacy-online/)
+
+**URL:** https://fpf.org/blog/7-tips-for-protecting-your-privacy-online/ 
+ 
+**Source and type:** Future of Privacy Forum – Blog  
 
 **Content:**  
-Explains how encryption protects confidentiality and privacy.
+This article recommends ways to manage digital footprints and personal data exposure. It discusses permissions, sharing, and awareness. Small behavioral changes are emphasized.
 
 **Value:**  
-Highly respected advocacy and research group.
+It connects privacy with everyday decisions. The advice is realistic and achievable.
 
 **Audience:**  
-Privacy-minded users.
+General internet users are targeted. It is accessible for beginners.
 
 **Limitations:**  
-Less technical implementation detail.
+Legal or regulatory depth is minimal. Platform updates may change some steps.

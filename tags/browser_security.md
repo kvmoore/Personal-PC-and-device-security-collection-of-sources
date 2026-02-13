@@ -1,15 +1,20 @@
 ## Browser Security Sources
 
-**LINK:** [Cyber Security 101 Attacks](https://www.crowdstrike.com/en-us/cybersecurity-101/social-engineering/phishing-attack/)
+**LINK:** [Web Security](https://www.udemy.com/course/web-security-du/)
 
-**Content:**
-This source explains phishing attacks, how they work, common attacker tactics, and warning signs users should recognize. It also discusses basic prevention strategies.
+**URL:** https://www.udemy.com/course/web-security-du/
+  
+**Source and type:** Udemy – Online course  
 
-**Value:**
-CrowdStrike is a well-known cybersecurity company with real-world threat intelligence, adding credibility and relevance to the information presented.
+**Content:**  
+This course introduces browser vulnerabilities and defensive practices. Learners explore attack methods and mitigation strategies. Demonstrations help reinforce understanding.
 
-**Audience:**
-General users and beginners seeking to understand phishing threats and improve safe online behavior.
+**Value:**  
+Interactive learning improves retention. It allows learners to move beyond theory.
 
-**Limitations:**
-The content is introductory and may include a vendor-oriented perspective without hands-on technical exercises.
+**Audience:**  
+Students and aspiring professionals are the primary audience. Beginners can follow along.
+
+**Limitations:**  
+Full participation may require payment. Quality can vary by instructor.
+

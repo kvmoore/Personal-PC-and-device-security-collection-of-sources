@@ -1,15 +1,19 @@
 ## VPN Sources
 
-**LINK:** [Securing your data](https://ssd.eff.org/module/securing-your-data-public-wi-fi)
+**LINK:** [Choosing a VPN That's Right for You](https://ssd.eff.org/module/choosing-vpn-thats-right-you  )
+
+**URL:** https://ssd.eff.org/module/choosing-vpn-thats-right-you 
+ 
+**Source and type:** Electronic Frontier Foundation – Nonprofit guide  
 
 **Content:**  
-Explains risks like rogue hotspots and offers protective strategies.
+The guide explains what VPN services can realistically protect and where their limits exist. It addresses common myths about anonymity and tracking. Advice is provided on how to evaluate providers.
 
 **Value:**  
-Respected digital privacy organization.
+It offers balanced, consumer-focused insight. Readers avoid misunderstanding marketing promises.
 
 **Audience:**  
-Travelers and remote workers.
+Privacy-conscious individuals and activists are the core audience. Beginners can also benefit from the explanations.
 
 **Limitations:**  
-May require extra tools.
+It does not walk users through installation. Technical comparisons between providers are limited.

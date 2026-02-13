@@ -3,14 +3,18 @@
 
 **LINK:** [Phishing attacks](https://www.crowdstrike.com/en-us/cybersecurity-101/social-engineering/phishing-attack/)
 
-**Content:**
-This source explains phishing attacks, how they work, common attacker tactics, and warning signs users should recognize. It also discusses basic prevention strategies.
+**URL:** https://www.crowdstrike.com/en-us/cybersecurity-101/social-engineering/phishing-attack/ 
+ 
+**Source and type:** CrowdStrike – Educational article  
 
-**Value:**
-CrowdStrike is a well-known cybersecurity company with real-world threat intelligence, adding credibility and relevance to the information presented.
+**Content:**  
+The article defines phishing techniques and attacker motivations. It explains email, SMS, and voice-based variants. Defensive behaviors and warning signs are discussed.
 
-**Audience:**
-General users and beginners seeking to understand phishing threats and improve safe online behavior.
+**Value:**  
+It improves threat recognition skills. Readers can better evaluate suspicious communications.
 
-**Limitations:**
-The content is introductory and may include a vendor-oriented perspective without hands-on technical exercises.
+**Audience:**  
+Employees, students, and consumers are targeted. It is helpful for awareness training.
+
+**Limitations:**  
+Vendor marketing elements may be present. Advanced detection technologies are not deeply covered.

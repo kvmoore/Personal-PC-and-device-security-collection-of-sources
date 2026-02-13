@@ -1,16 +1,20 @@
 
 ## Home router sources
 
-**LINK:**[How to secure your home wifi network](https://consumer.ftc.gov/articles/how-secure-your-home-wi-fi-network)
+**LINK:**[How to secure your home wifi network](https://ispreports.org/how-to-secure-home-wifi-the-ultimate-guide-to-network-protection/)
+
+**URL:** https://ispreports.org/how-to-secure-home-wifi-the-ultimate-guide-to-network-protection/ 
+ 
+**Source and type:** ISP Reports – Guide  
 
 **Content:**  
-Covers encryption, router passwords, firmware updates, and configuration tips.
+The guide explains router configuration, encryption standards, and monitoring practices. It provides detailed actions for disabling risky features and changing defaults. Threats targeting poorly configured equipment are emphasized.
 
 **Value:**  
-Plain-language and government backed.
+Readers receive more depth than a basic checklist. The article encourages proactive management and regular review of settings.
 
 **Audience:**  
-Home users.
+Consumers wanting a stronger technical understanding will benefit most. Intermediate users are ideal readers.
 
 **Limitations:**  
-Not device specific.
+It is not an official government source. Some advice may differ depending on hardware brands.

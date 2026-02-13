@@ -2,6 +2,11 @@
 
 **LINK:** [Ensure Your antivirus and Anti Malware are Active](https://www.cisa.gov/resources-tools/training/ensure-your-os-antivirus-and-anti-malware-protections-are-active)
 
+**URL:** https://www.cisa.gov/resources-tools/training/ensure-your-os-antivirus-and-anti-malware-protections-are-active
+  
+**Source and type:** Cybersecurity and Infrastructure Security Agency – Training  
+
+
 **Content:**
 These CISA resources explain the importance of keeping operating systems, applications, and security software up to date. They describe how outdated software creates vulnerabilities and emphasize enabling antivirus and anti-malware protections.
 
